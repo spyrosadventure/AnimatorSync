@@ -1,0 +1,13 @@
+{
+  "name": "com.maff.animator-sync",
+  "version": "1.0.0",
+  "displayName": "Animator Sync",
+  "description": "Sync Unity Animator parameters and triggers across Photon PUN2 or Fusion lobbies.",
+  "unity": "6000.2",
+  "keywords": ["photon","networking","animator","sync"],
+  "author": {"name":"Maff"},
+  "dependencies": {
+    "com.unity.modules.animation": "",
+    "com.photon.pun": "",
+  }
+}
